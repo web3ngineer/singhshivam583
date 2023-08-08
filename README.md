@@ -2,11 +2,6 @@
 <h1> Shivam Singh</h1>
 <br /> 
 
-                    
-`**Digital Craftsman (Developer / Programmer)**`
-
-                    
-
 <p align="left">Hey, Myself Shivam Singh, A passionate Code Feeder and Learner.
 </p>
 <p align="left"> 
@@ -25,52 +20,6 @@
 
 ---
 <br />
-
-                    
-
-<h2>Languages and Tools</h2> 
-<p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=Solidity,Javascript,node.js,web3.js,truffle.js,hardhat,html,css,raect&perline=9"  />
-</p>
-<br />
-
-                    
-
-<p><a href="https://github.com/singhshivam583#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhshivam583&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="singhshivam583" /></a>
-  <a href="https://github.com/singhshivam583#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhshivam583&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="singhshivam583" /></a>
-</p>
-
-<br />
-
-<p>&nbsp;<a href="https://github.com/singhshivam583#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=singhshivam583&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="singhshivam583" /></a>
-<a href="https://github.com/singhshivam583#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=singhshivam583&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="singhshivam583" /></a>
-</p> 
-<br>
-<br />
-
-<p><a href="https://github.com/singhshivam583#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=singhshivam583&theme=nightowl#gh-dark-mode-only" alt="singhshivam583"/></a>
-<a href="https://github.com/singhshivam583#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=singhshivam583&theme=vue#gh-light-mode-only" alt="singhshivam583"/></a></p>
-<br/>
-<br />
-
-<p><a href="https://github.com/singhshivam583#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=singhshivam583&theme=nightowl#gh-dark-mode-only" alt="singhshivam583" /></a>
-<a href="https://github.com/singhshivam583#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=singhshivam583&theme=vue#gh-light-mode-only" alt="singhshivam583" /></a></p>
-<br/>
-
----
-
-
-                    
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com/singhshivam583/Voting DApp#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singhshivam583&repo=Voting DApp&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/singhshivam583/Voting DApp#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singhshivam583&repo=Voting DApp&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
-
-                    
-
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://twitter.com/@singhshivam583" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@singhshivam583" /></a>
