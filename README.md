@@ -17,8 +17,6 @@
   <a href="https://github.com/singhshivam583?tab=followers#gh-dark-mode-only">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/singhshivam583?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
-
----
 <br />
 <h2>Connect With Me</h2> 
 <p align="left">
