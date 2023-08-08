@@ -1,10 +1,8 @@
 ### Hi there 👋
 <h1> Shivam Singh</h1>
-<br /> 
-
 <p align="left">Hey, Myself Shivam Singh,<br/>
   A passionate Learner and Code Feeder.
-</p><br/>
+</p>
 
 <p align="left"> 
   <a href="https://github.com/singhshivam583?tab=repositories&sort=stargazers#gh-light-mode-only">
