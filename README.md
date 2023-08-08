@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <h1> Shivam Singh</h1>
 <br /> 
 
@@ -31,7 +30,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=Solidity,Javascript,nodejs,web3js,trufflejs,hardhat,html,css,raect&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=Solidity,Javascript,node.js,web3.js,truffle.js,hardhat,html,css,raect&perline=9"  />
 </p>
 <br />
 
@@ -78,10 +77,6 @@
 <a href="https://instagram.com/shivam___Singh___10" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam___Singh___10" /></a>
 <a href="https://www.linkedin.com/in/shivam-singh-1a78a8212/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
-
-                
-
-            
 <!--
 **singhshivam583/singhshivam583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
