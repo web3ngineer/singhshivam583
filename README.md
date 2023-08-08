@@ -4,7 +4,8 @@
 
 <p align="left">Hey, Myself Shivam Singh,<br/>
   A passionate Learner and Code Feeder.
-</p>
+</p><br/>
+
 <p align="left"> 
   <a href="https://github.com/singhshivam583?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/singhshivam583?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
