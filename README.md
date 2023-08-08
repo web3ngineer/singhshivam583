@@ -17,7 +17,6 @@
   <a href="https://github.com/singhshivam583?tab=followers#gh-dark-mode-only">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/singhshivam583?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
-<br />
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://twitter.com/@singhshivam583" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@singhshivam583" /></a>
