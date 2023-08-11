@@ -22,6 +22,7 @@
 <a href="https://twitter.com/@singhshivam583" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@singhshivam583" /></a>
 <a href="https://instagram.com/shivam___Singh___10" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam___Singh___10" /></a>
 <a href="https://www.linkedin.com/in/shivam-singh-1a78a8212/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="mailto:shivamsingh175503@gmail.com.com"><img align="left" src="gmail_icon.png" alt="Gmail Icon" width="30px" style="padding-right:10px;">
 </p>
 <!--
 **singhshivam583/singhshivam583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
