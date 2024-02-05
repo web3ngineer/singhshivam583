@@ -23,6 +23,58 @@
 <a href="https://instagram.com/shivam___Singh___10" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam___Singh___10" /></a>
 <a href="https://www.linkedin.com/in/shivam-singh-1a78a8212/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
+---
+<br />
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,vscode,postman&perline=10"  />
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Hruthik-28">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hruthik-28&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Hruthik-28">
+          <img align="center" src="https://streak-stats.demolab.com?user=Hruthik-28&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Hruthik-28/youtube-twitter">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Hruthik-28&repo=youtube-twitter&theme=nightowl&show_owner=true" alt="youtube-twitter" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Languages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Hruthik-28">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hruthik-28&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 <!--
 **singhshivam583/singhshivam583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
