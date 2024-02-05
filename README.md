@@ -17,14 +17,13 @@
   <a href="https://github.com/singhshivam583?tab=followers#gh-dark-mode-only">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/singhshivam583?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
-<br/>
+<!-- <br/> -->
 <!--Languages and Tools Section-->       
 <h2 align="left">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="left">
 <img width="500px"  src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,github,vscode,postman,solidity,ipfs,linux&perline=10"  />
 </p>
-<br />
-
+<!-- <br /> -->
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://twitter.com/@singhshivam583" target="_blank"><img align="left" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=twitter" alt="@singhshivam583" /></a>
