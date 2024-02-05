@@ -49,7 +49,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Hruthik-28">
+        <a href="https://github.com/singhshivam583">
           <img align="center" src="https://streak-stats.demolab.com?user=singhshivam583&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
@@ -59,7 +59,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Hruthik-28/youtube-twitter">
+        <a href="https://github.com/singhshivam/Blog-Appwrite">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=singhshivam583&repo=youtube-twitter&theme=nightowl&show_owner=true" alt="youtube-twitter" />
         </a>
       </p>
@@ -67,8 +67,8 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Languages</strong></h3>
       <p align="center">
-        <a href="https://github.com/Hruthik-28">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hruthik-28&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
+        <a href="https://github.com/singhshivam583">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singshivam583&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
         </a>
       </p>
     </td>
