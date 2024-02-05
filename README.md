@@ -27,7 +27,7 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="left">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,vscode,postman&perline=10"  />
 </p>
@@ -42,7 +42,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Hruthik-28">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hruthik-28&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=singhshivam583&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
