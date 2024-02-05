@@ -21,14 +21,14 @@
 <!--Languages and Tools Section-->       
 <h2 align="left">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="left">
-<img width="30px"  src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,github,vscode,postman,solidity,ipfs,linux&perline=10"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,github,vscode,postman,solidity,ipfs,linux&perline=10"  />
 </p>
 <!-- <br /> -->
 <h2>Connect With Me</h2> 
 <p align="left">
-<a href="https://twitter.com/@singhshivam583" target="_blank"><img align="left" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=twitter" alt="@singhshivam583" /></a>
-<a href="https://instagram.com/shivam___Singh___10" target="_blank"><img align="left" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=instagram" alt="shivam___Singh___10" /></a>
-<a href="https://www.linkedin.com/in/shivam-singh-1a78a8212/" target="_blank"><img align="left" alt="linkedin" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://twitter.com/@singhshivam583" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=twitter" alt="@singhshivam583" /></a>
+<a href="https://instagram.com/shivam___Singh___10" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=instagram" alt="shivam___Singh___10" /></a>
+<a href="https://www.linkedin.com/in/shivam-singh-1a78a8212/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 <br />
 
