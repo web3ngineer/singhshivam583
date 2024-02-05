@@ -28,8 +28,8 @@
 
 <!--Languages and Tools Section-->       
 <h2 align="left">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,vscode,postman&perline=10"  />
+<p align="left">
+<img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,vscode,postman,thunderclient&perline=10"  />
 </p>
 <br />
 
@@ -50,7 +50,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Hruthik-28">
-          <img align="center" src="https://streak-stats.demolab.com?user=Hruthik-28&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=singhshivam583&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -60,7 +60,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Hruthik-28/youtube-twitter">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Hruthik-28&repo=youtube-twitter&theme=nightowl&show_owner=true" alt="youtube-twitter" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=singhshivam583&repo=youtube-twitter&theme=nightowl&show_owner=true" alt="youtube-twitter" />
         </a>
       </p>
     </td>
