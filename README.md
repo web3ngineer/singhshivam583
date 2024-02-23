@@ -21,7 +21,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="left">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="left">
-<img width="400px"  src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,github,vscode,postman,solidity,ipfs,linux&perline=10"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=js,ts,python,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,github,vscode,postman,solidity,ipfs,linux&perline=10"  />
 </p>
 <!-- <br /> -->
 <h2>Connect With Me</h2> 
